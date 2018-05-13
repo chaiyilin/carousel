@@ -1,0 +1,22 @@
+{
+  "name": "carousel",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.3.2",
+    "react-dom": "16.3.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.4",
+    "react-swipeable-views": "^0.12.13",
+    "react-swipeable-views-core": "^0.12.11",
+    "react-swipeable-views-utils": "^0.12.13",
+    "rebass": "^1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
